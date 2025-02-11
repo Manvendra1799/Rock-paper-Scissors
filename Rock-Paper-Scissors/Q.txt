@@ -1,0 +1,71 @@
+//CSS
+what is shaking effect? how to fix it.
+
+what text-align:center can do?
+
+How to use transform:transition property ?
+
+How to make things simple ?? 
+
+
+// </> JAVASCRIPT </> 
+1. How to use arrow function?
+
+2. How to use  forEach(callback function)?
+
+3. Callback are pillar of javscript?
+
+4. when to use Var, Const, let?(avoid using Var)
+
+5. How to use MDM docs ?
+
+How to build our game??
+
+1.How to Select the userChoice ?
+
+2.How to generate the computer choice?
+
+3. How to integrate userChoice and computerChoice to playGame?
+
+4. creating new function to check the userWin score?
+
+
+//How am I going to solve the same problem in future??
+
+1. break the project into smaller components
+
+2. focus on each components 
+
+(use first principle thinking!)
+
+KeyPoints :-
+
+Html:
+
+@ How the use of id serve as a savior for selecting individual choices?
+
+
+Css:
+
+@ shaking effect while hover?
+
+@ transition : transform property
+
+@ text-align : center
+
+JAVASCRIPT:
+
+# How to use ARROW function
+
+# How to use forEach()
+
+# How to make modules of each section to perform different task?
+
+ eg: userchoice() ,  genchoice(),  showWinner(),  playGame();
+
+# How to use Eventlistener?
+
+note:- revise concept of javascript by building small small project to retreive data.
+
+
+
